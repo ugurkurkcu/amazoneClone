@@ -168,7 +168,9 @@ span {
 .hero {
     background-image: url(images/hero_image.jpg);
     background-size: cover;
+    background-position: center top;
     height: 350px;
+    width: 100%;
     display: flex;
     align-items: flex-end;
     justify-content: center;
@@ -219,7 +221,7 @@ span {
     align-items: center;
     gap: 8px;
     margin: 5px;
-    width: 22%;
+    width: 400px;
     height: 400px;
     padding: 20px;
 }
